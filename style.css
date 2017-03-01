@@ -1,6 +1,6 @@
 html{
 	 font-family : verdana, cursive , sans-serif;
-     font: inherit;
+         font: inherit;
 	 margin:20;
 	 padding:40;
 	 border:10;
@@ -25,9 +25,9 @@ h3 {
 }
 
 #h3{
-	color: red;
+    color: red;
     font-size:200%;
-	text-align:center;
+    text-align:center;
 }
 h4{
 	color:yellow;
@@ -36,26 +36,26 @@ h4{
 }
 
 #bigdata{ 
-		  border : 0.5em solid blue;
+	  border : 0.5em solid blue;
           margin-left:auto;
-		  margin-right:auto;
-		  display: block;
-		  height: 50%;
-		 width: 100%; 
+	  margin-right:auto;
+	  display: block;
+	  height: 50%;
+	 width: 100%; 
 }
 #bigdata2{ 
-		  border : 0.05em solid bluewhite;
+	  border : 0.05em solid bluewhite;
           margin-left:auto;
-		  margin-right:auto;
-		  display: block;
+	  margin-right:auto;
+	  display: block;
 }
 
 #menubar{ 
-	      list-style-type :none;
+	  list-style-type :none;
           margin:0;
           padding:0;
-		  overflow:hidden;
-		  background-color:navy;
+	  overflow:hidden;
+	  background-color:navy;
 }
 
 #ho{
@@ -65,20 +65,20 @@ h4{
 	display:inline;
 	display:block;
 	text-align:center;
-    padding:14px 16px;
+    	padding:14px 16px;
 	color:white;
-    text-decoration: none;
+    	text-decoration: none;
 	}
 section { 
-		  border-top-width : 0.5em ;
-		  border-bottom-width : 0.5em ;
+	  border-top-width : 0.5em ;
+	  border-bottom-width : 0.5em ;
           border-right-width : 0.5em ;
-		  border-left-width : 0.5em ;		  
+	  border-left-width : 0.5em ;		  
           border-right-style :solid ;
-		  border-top-style : solid ;
-		  border-bottom-style : solid ;
-		  border-left-style : solid ;
-		  margin-top : 0.5em;	
+	  border-top-style : solid ;
+	  border-bottom-style : solid ;
+	  border-left-style : solid ;
+	  margin-top : 0.5em;	
 }
  ul{list-style-type: square;
  }
@@ -91,8 +91,8 @@ section {
  }
 #indeximg { 
             margin-left:auto;
-			margin-right:auto;
-		    display: block;
+	    margin-right:auto;
+	    display: block;
 }
 #statistic{background:skyblue;
 }
