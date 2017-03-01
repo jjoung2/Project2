@@ -1,0 +1,98 @@
+html{
+	 font-family : verdana, cursive , sans-serif;
+     font: inherit;
+	 margin:20;
+	 padding:40;
+	 border:10;
+	 vertical-align:baseline
+}
+
+
+h1 {
+     text-align: center;
+	 font-size:400%;
+}
+
+h2{
+	text-align: right;
+}
+#h2{
+	text-align:left;
+}
+
+h3 {
+	text-align: left;
+}
+
+#h3{
+	color: red;
+    font-size:200%;
+	text-align:center;
+}
+h4{
+	color:yellow;
+	font-size:130%;
+	text-align: left;
+}
+
+#bigdata{ 
+		  border : 0.5em solid blue;
+          margin-left:auto;
+		  margin-right:auto;
+		  display: block;
+		  height: 50%;
+		 width: 100%; 
+}
+#bigdata2{ 
+		  border : 0.05em solid bluewhite;
+          margin-left:auto;
+		  margin-right:auto;
+		  display: block;
+}
+
+#menubar{ 
+	      list-style-type :none;
+          margin:0;
+          padding:0;
+		  overflow:hidden;
+		  background-color:navy;
+}
+
+#ho{
+	float: left;
+}	
+#ho a{
+	display:inline;
+	display:block;
+	text-align:center;
+    padding:14px 16px;
+	color:white;
+    text-decoration: none;
+	}
+section { 
+		  border-top-width : 0.5em ;
+		  border-bottom-width : 0.5em ;
+          border-right-width : 0.5em ;
+		  border-left-width : 0.5em ;		  
+          border-right-style :solid ;
+		  border-top-style : solid ;
+		  border-bottom-style : solid ;
+		  border-left-style : solid ;
+		  margin-top : 0.5em;	
+}
+ ul{list-style-type: square;
+ }
+
+ ol { list-style-type: upper-roman; 
+ }
+ li { font-family: verdana, cursive , sans-serif;
+      font-size:110%;
+	  color:green;
+ }
+#indeximg { 
+            margin-left:auto;
+			margin-right:auto;
+		    display: block;
+}
+#statistic{background:skyblue;
+}
